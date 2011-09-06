@@ -144,6 +144,11 @@ a:active {
 
 /*выделение жирным шрифтом в баннере*/
 .t {
+	font-family:"Segoe UI";
+	font-weight:900;
+}
+
+.tt {
 	font-family:"Segoe UI Semibold";
 }
 
