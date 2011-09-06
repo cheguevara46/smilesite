@@ -322,6 +322,14 @@ a:active {
 	height:230px;
 }
 
+#photonews {
+	background-color: #7f7f7f;
+	position: relative;
+	margin-bottom:10px;
+	margin-top:14px;
+	height:230px;
+}
+
 #zone {
 	background-color: #7f7f7f;
 	position: relative;
