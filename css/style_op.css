@@ -6,7 +6,6 @@
 	height: auto;
 }
 
-
 /*текст статей*/
 p {
 	overflow: hidden;
@@ -27,7 +26,7 @@ h1 {
 	color: #fff;
 	word-spacing: 10px;
 	display:inline;
-	line-height: 400%;  
+	line-height: 275%;  
 }
 
 /*банер заголовок*/
@@ -139,8 +138,7 @@ a:active {
 	font-size:11px;
 	color:#fff;
 	text-align:right;
-	padding:3px 10px 0px 0;
-	margin:0px;
+	padding:5px 10px 0 0;
 }
 
 /*выделение жирным шрифтом в баннере*/
@@ -204,10 +202,6 @@ a:active {
   	width: 960px;
 	color: #fff;
 	height:40px;
-	position:absolute;
-	bottom:0px;
-	left:50%;
-	margin-left:-480px;
 }
 
 /*подписи к изображениям проектов*/
