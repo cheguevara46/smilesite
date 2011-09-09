@@ -31,32 +31,32 @@ echo '<div class="fon">&nbsp;</div>
 				<div class="clear"></div>
 				<!--изображение-->
 				<div class="grid_4" id="photo">
-					<p class="name">LEVEL-UP.RU</p>
+					<a href="#" title="LEVEL-UP.RU"><img class="captify" src="img/photo.gif" width="220" height="230" alt="LEVEL-UP.RU" /></a>
 				</div>
 				<div class="grid_4" id="photo">
-					<p class="name">MAYOWARRIORS ПЕРЕВОД 27/03/2012</p>
+					<a href="#" title="LEVEL-UP.RU"><img class="captify" src="img/photo.gif" width="220" height="230" alt="LEVEL-UP.RU" /></a>
 				</div>
 				<div class="grid_4" id="photo">
-					<p class="name">METARADIO.FM</p>
+					<a href="#" title="LEVEL-UP.RU"><img class="captify" src="img/photo.gif" width="220" height="230" alt="LEVEL-UP.RU" /></a>
 				</div>
 				<div class="grid_4" id="photo">
-					<p class="name">GTUG 02/12</p>
+					<a href="#" title="LEVEL-UP.RU"><img class="captify" src="img/photo.gif" width="220" height="230" alt="LEVEL-UP.RU" /></a>
 				</div>
 				
 				<!--новая строка-->
 				<div class="clear"></div>
 				<!--изображение-->
 				<div class="grid_4" id="photo">
-					<p class="name">LEVEL-UP.RU</p>
+					<a href="#" title="LEVEL-UP.RU"><img class="captify" src="img/photo.gif" width="220" height="230" alt="LEVEL-UP.RU" /></a>
 				</div>
 				<div class="grid_4" id="photo">
-					<p class="name">MAYOWARRIORS ПЕРЕВОД 27/03/2012</p>
+					<a href="#" title="LEVEL-UP.RU"><img class="captify" src="img/photo.gif" width="220" height="230" alt="LEVEL-UP.RU" /></a>
 				</div>
 				<div class="grid_4" id="photo">
-					<p class="name">METARADIO.FM</p>
+					<a href="#" title="LEVEL-UP.RU"><img class="captify" src="img/photo.gif" width="220" height="230" alt="LEVEL-UP.RU" /></a>
 				</div>
 				<div class="grid_4" id="photo">
-					<p class="name">GTUG 02/12</p>
+					<a href="#" title="LEVEL-UP.RU"><img class="captify" src="img/photo.gif" width="220" height="230" alt="LEVEL-UP.RU" /></a>
 				</div>
 			</div>
 		</div>';
