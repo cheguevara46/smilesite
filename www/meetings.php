@@ -29,32 +29,32 @@ echo '<div id="content">
 				<div class="clear"></div>
 				<!--изображение-->
 				<div class="grid_4" id="photo">
-					<p class="name">CS:SUPERSTAR</p>
+					<a href="#" title="LEVEL-UP.RU"><img class="captify" src="img/photo.gif" width="220" height="230" alt="LEVEL-UP.RU" /></a>
 				</div>
 				<div class="grid_4" id="photo">
-					<p class="name">GTUG 02/12 #GTUG 25/02/2012</p>
+					<a href="#" title="LEVEL-UP.RU"><img class="captify" src="img/photo.gif" width="220" height="230" alt="LEVEL-UP.RU" /></a>
 				</div>
 				<div class="grid_4" id="photo">
-					<p class="name">23/02</p>
+					<a href="#" title="LEVEL-UP.RU"><img class="captify" src="img/photo.gif" width="220" height="230" alt="LEVEL-UP.RU" /></a>
 				</div>
 				<div class="grid_4" id="photo">
-					<p class="name">TROLL3D 02/12</p>
+					<a href="#" title="LEVEL-UP.RU"><img class="captify" src="img/photo.gif" width="220" height="230" alt="LEVEL-UP.RU" /></a>
 				</div>
 				
 				<!--новая строка-->
 				<div class="clear"></div>
 				<!--изображение-->
 				<div class="grid_4" id="photo">
-					<p class="name">14/02</p>
+					<a href="#" title="LEVEL-UP.RU"><img class="captify" src="img/photo.gif" width="220" height="230" alt="LEVEL-UP.RU" /></a>
 				</div>
 				<div class="grid_4" id="photo">
-					<p class="name">DOTA:SUPERSTAR</p>
+					<a href="#" title="LEVEL-UP.RU"><img class="captify" src="img/photo.gif" width="220" height="230" alt="LEVEL-UP.RU" /></a>
 				</div>
 				<div class="grid_4" id="photo">
-					<p class="name">TROLL3D 01/12</p>
+					<a href="#" title="LEVEL-UP.RU"><img class="captify" src="img/photo.gif" width="220" height="230" alt="LEVEL-UP.RU" /></a>
 				</div>
 				<div class="grid_4" id="photo">
-					<p class="name">NEWNEWYEAR-12</p>
+					<a href="#" title="LEVEL-UP.RU"><img class="captify" src="img/photo.gif" width="220" height="230" alt="LEVEL-UP.RU" /></a>
 				</div>
 			</div>
 		</div>';
